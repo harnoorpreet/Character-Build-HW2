@@ -83,14 +83,14 @@ article p, #instructions p {
 .sprite {
     width: 150px;
     height: 150px;
-    background-image: url('../images/bigbangsprite.jpeg');
+    background-image: url('../images/Thevbigbangsprite.png');
 }
-
-#sheldon {background-position: -150px 0;}
-#leonard {background-position: -300px 0;}
-#howard {background-position: -450px 0;}
-#rajesh {background-position: -600px 0;}
-#penny {background-position: -750px 0;}
+jpeg
+#leonard {background-position: -150px 0;}
+#howard {background-position: -300px 0;}
+#rajesh {background-position: -450px 0;}
+#penny {background-position: -600px 0;}
+#lucy {background-position: -750px 0;}
 
 #sheldon:hover, #leonard:hover, #howard:hover, #rajesh:hover, #penny:hover, #lucy:hover {
     background-position-y: -150px;

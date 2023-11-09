@@ -126,9 +126,18 @@ footer {
 }
 
 #lightbox2 {
-  
+    position: absolute;
+    top:0;
+    left:0;
+
+    width:100vw;
+    height:100vh;
+
+  background-color: rgba(0,0,0,0.85);
     background-image: url('../images/leonard.jpeg');
     background-size:55vh;
+    background-position: 40px bottom;
+    display: none;
 }
 
 #lightbox3 {

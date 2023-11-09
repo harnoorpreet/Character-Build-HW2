@@ -125,7 +125,7 @@ footer {
     display: none;
 }
 
-.lightbox2 {
+#lightbox2 {
     position: absolute;
     top:0;
     left:0;

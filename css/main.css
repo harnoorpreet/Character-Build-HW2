@@ -24,7 +24,7 @@ header {
     display: block;
     margin: 0 auto;  
     /*margin top and bottom, 0. Margin left and right auto */
-    box-shadow: 3px 3px 5px rgba(0,0,0,.3);
+    box-shadow: 3px 3px 5px rgba(0red,0red,.3alpha);
 }
 
 #character_nav {
@@ -85,7 +85,7 @@ article p, #instructions p {
     height: 150px;
     background-image: url('../images/Thevbigbangsprite.png');
 }
-jpeg
+
 #leonard {background-position: -150px 0;}
 #howard {background-position: -300px 0;}
 #rajesh {background-position: -450px 0;}

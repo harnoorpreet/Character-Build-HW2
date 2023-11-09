@@ -23,6 +23,8 @@ With 12 seasons and a total of 279 episodes, "The Big Bang Theory" offers a plet
 "The Big Bang Theory" is available on various streaming platforms, making it easy for fans to relive the laughter or discover the series for the first time. Check your favorite streaming service to see if it's available in your region.
 
 # Contribution Guidelines
+
 Feel free to contribute to this README file by submitting pull requests. Share your favorite episodes, quotes, or any additional information that enhances the overall experience for fellow fan.
 
-Enjoy watching "The Big Bang Theory"!
+
+Enjoy watching "The Big Bang Theory"

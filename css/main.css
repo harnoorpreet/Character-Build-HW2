@@ -130,7 +130,7 @@ footer {
     background-image: url('../images/leonard.jpeg');
 }
 
-.lightbox3 {
+#lightbox3 {
     position: absolute;
     top:0;
     left:0;
@@ -146,7 +146,7 @@ footer {
     display: none;
 }
 
-.lightbox4 {
+#lightbox4 {
     position: absolute;
     top:0;
     left:0;
@@ -162,7 +162,7 @@ footer {
     display: none;
 }
 
-.lightbox5 {
+#lightbox5 {
     position: absolute;
     top:0;
     left:0;
@@ -178,7 +178,7 @@ footer {
     display: none;
 }
 
-.lightbox6 {
+#lightbox6 {
     position: absolute;
     top:0;
     left:0;

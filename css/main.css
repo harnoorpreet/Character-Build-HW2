@@ -126,7 +126,86 @@ footer {
 }
 
 .lightbox2 {
+     position: absolute;
+    top:0;
+    left:0;
+
+    width:100vw;
+    height:100vh;
+
+    background-color: rgba(0,0,0,0.85);
     background-image: url('../images/leonard.jpeg');
+    background-repeat: no-repeat;
+
+    background-size:55vh;
+    background-position: 40px bottom;
+    display: none;
+}
+.lightbox3 {
+    position: absolute;
+    top:0;
+    left:0;
+
+    width:100vw;
+    height:100vh;
+
+    background-color: rgba(0,0,0,0.85);
+    background-image: url('../images/howard.jpeg');
+    background-repeat: no-repeat;
+
+    background-size:55vh;
+    background-position: 40px bottom;
+    display: none;
+}
+.lightbox4 {
+    position: absolute;
+    top:0;
+    left:0;
+
+    width:100vw;
+    height:100vh;
+
+    background-color: rgba(0,0,0,0.85);
+    background-image: url('../images/rajesh.jpeg');
+    background-repeat: no-repeat;
+
+    background-size:55vh;
+    background-position: 40px bottom;
+    display: none;
+    
+    
+}
+.lightbox5 {
+    position: absolute;
+    top:0;
+    left:0;
+
+    width:100vw;
+    height:100vh;
+
+    background-color: rgba(0,0,0,0.85);
+    background-image: url('../images/penny.jpeg');
+    background-repeat: no-repeat;
+
+    background-size:55vh;
+    background-position: 40px bottom;
+    display: none;
+}
+.lightbox6 {
+    position: absolute;
+    top:0;
+    left:0;
+
+    width:100vw;
+    height:100vh;
+
+    background-color: rgba(0,0,0,0.85);
+    background-image: url('../images/lucy.jpeg');
+    background-repeat: no-repeat;
+
+    background-size:55vh;
+    background-position: 40px bottom;
+    display: none;
 }
 
 .lightbox_close {

@@ -15,8 +15,8 @@ body {
 }
 
 header {
-    background-color:rgb(50, 53, 205);
-    padding: 10px 0;
+    background-color:rgba(143, 50, 205, 0.945);
+    padding: 20px 0;
 }
 
 #main-logo {
